@@ -3,7 +3,7 @@ G-TimeTracker is a simple and cloud-friendly open source time tracker.
 
 Description
 Global Time Tracker is an application, that allows you to track, how you spent
-the time of your life.
+the time of your life.You can achive goals
 
 With this software you can track you time using different categories, view
 statistics, search for records and view history for specific period.
